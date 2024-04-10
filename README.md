@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GnanaDeepika22
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Gnana Deepika
+- 👀 I love playing with data and numbers
 - 🌱 I have completed Data analysis course at Innomatics Research labs, Hyderabad
 - 💞️ I love reading fiction 
 - 📫 gdeepikagnana@gmail.com
