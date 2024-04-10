@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GnanaDeepika22
 - 👀 I’m interested in Data Science
-- 🌱 I completed Data analysis course at Innomatics Research labs, Hyderabad
+- 🌱 I have completed Data analysis course at Innomatics Research labs, Hyderabad
 - 💞️ I love reading fiction 
 - 📫 gdeepikagnana@gmail.com
 
